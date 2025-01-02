@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Mei!
+# 👋 Hello, I'm Mei!
 I am a Junior Software Developer with a solid foundation in front-end development and a growing interest in back-end technologies. I am passionate about using technologies to solve real world problems.
 
 ## 🚀 What I’m Working On
