@@ -5,7 +5,7 @@ I am a Junior Software Developer with a solid foundation in front-end developmen
 
 I’m currently focused on:
 - Building and deploying web applications using **React** and **Django**.
-- Exploring backend development, particularly **Django**.
+- Exploring backend technologies, particularly **Django**.
 - Learning more about **Artificial Intelligence** and how to integrate it into real-world applications.
 
 ## 📚 Skills
