@@ -20,11 +20,4 @@ I’m currently focused on:
 
 When I’m not coding, you’ll find me binge-watching K-Drama shows and sci-fi series/movies.
 
-## 🔗 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/meidevilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meidevilla" height="20" width="30" />
-  </a>
-</p>
-
-Feel free to check out my repositories to see the projects I’m working on!
+**Feel free to check out my repositories to see the projects I’m working on!**
